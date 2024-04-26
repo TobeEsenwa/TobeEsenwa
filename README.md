@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=TobeEsenwa&label=Profile%20views&color=0e75b6&style=flat" alt="TobeEsenwa" />
 </p>
 
-<p align="left">
-  <!-- Replace 'your-animated-tech-cartoon-url.gif' with your actual animated tech cartoon URL -->
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Animated Tech Cartoon"/>
-</p>
-
 - 🔭 **Currently Working On:** I'm leading the development of a highly flexible data collection platform that has successfully acquired over 90 million location datasets across two African countries.
 
 - 🌱 **Currently Learning:** Advanced techniques in Vue.js and exploring the capabilities of Lit.js for building lightweight web components.
@@ -91,8 +86,8 @@ I am a highly motivated and professional Software Developer with over 4 years of
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeEsenwa&layout=compact&langs_count=8" alt="Top Languages" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TobeEsenwa" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeEsenwa&layout=compact&langs_count=8" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TobeEsenwa" alt="GitHub Streak" width="50%/>
 </div>
 
 ---
