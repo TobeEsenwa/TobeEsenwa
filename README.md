@@ -5,8 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=TobeEsenwa&label=Profile%20views&color=0e75b6&style=flat" alt="TobeEsenwa" />
 </p>
 
-<p align="center">
-  <img src="https://your-animated-gif-url.gif" alt="Your GIF" style="float:right; margin-right: 20px;"/>
+<p align="right">
+  <!-- Replace 'your-animated-gif-url.gif' with your actual GIF URL -->
+  <img src="https://your-animated-gif-url.gif" width="300" alt="Animated GIF" align="right"/>
 </p>
 
 - 🔭 **Currently Working On:** I'm leading the development of a highly flexible data collection platform that has successfully acquired over 90 million location datasets across two African countries.
@@ -26,15 +27,15 @@ I am a highly motivated and professional Software Developer with over 4 years of
 
 <h3 align="center">Technical Skills:</h3>
 <p align="center">
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/react.svg" alt="React" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/nuxtdotjs.svg" alt="Nuxt.js" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 <h3 align="center">Certifications:</h3>
@@ -53,6 +54,8 @@ I am a highly motivated and professional Software Developer with over 4 years of
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TobeEsenwa&show_icons=true&locale=en&layout=compact" alt="TobeEsenwa" />
   <img src="https://github-readme-stats.vercel.app/api?username=TobeEsenwa&show_icons=true&locale=en" alt="TobeEsenwa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TobeEsenwa" alt="TobeEsenwa" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=TobeEsenwa&theme=minimal" alt="GitHub Activity Graph" />
 </p>
 
 ---
