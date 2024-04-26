@@ -72,9 +72,12 @@ I am a highly motivated and professional Software Developer with over 4 years of
     <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
   </a>
 </p>
-<h3 align="left">Certifications:</h3>
-<p align="left">
-  Udemy Vue Completion Course
+
+<h3 align="center">Certifications:</h3>
+<p align="center">
+  <a href="https://www.credential.net/ebeaff9a-bcb2-4abe-8063-d8e5a93b1b24?username=tobechukwuesenwa878988#main-content" target="_blank">
+    Udemy Vue Completion Course
+  </a>
 </p>
 
 <h3 align="left">Key Projects:</h3>
