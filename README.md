@@ -27,10 +27,10 @@ I am a highly motivated and professional Software Developer with over 4 years of
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/tobechukwu-esenwa-84280b176/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
+  <a href="https://www.instagram.com/tobe_floo/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
 </p>
@@ -57,9 +57,6 @@ I am a highly motivated and professional Software Developer with over 4 years of
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/next.png" alt="Next.js"/>
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nuxt-js.png" alt="Nuxt.js"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
@@ -96,10 +93,7 @@ I am a highly motivated and professional Software Developer with over 4 years of
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeEsenwa&layout=compact&langs_count=8" alt="Top Languages" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=TobeEsenwa&show_icons=true" alt="GitHub Stats" width="45%"/>
-</div>
-<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TobeEsenwa" alt="GitHub Streak" width="45%"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=TobeEsenwa&theme=minimal" alt="GitHub Activity Graph" width="45%"/>
 </div>
 
 ---
