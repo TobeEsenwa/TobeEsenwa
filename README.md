@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=TobeEsenwa&label=Profile%20views&color=0e75b6&style=flat" alt="TobeEsenwa" />
 </p>
 
+<p align="center">
+  <img src="https://your-animated-gif-url.gif" alt="Your GIF" style="float:right; margin-right: 20px;"/>
+</p>
+
 - 🔭 **Currently Working On:** I'm leading the development of a highly flexible data collection platform that has successfully acquired over 90 million location datasets across two African countries.
 
 - 🌱 **Currently Learning:** Advanced techniques in Vue.js and exploring the capabilities of Lit.js for building lightweight web components.
