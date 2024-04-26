@@ -92,7 +92,6 @@ I am a highly motivated and professional Software Developer with over 4 years of
 <h3 align="left">GitHub Stats:</h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeEsenwa&layout=compact&langs_count=8" alt="Top Languages" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TobeEsenwa&show_icons=true" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TobeEsenwa" alt="GitHub Streak" width="45%"/>
 </div>
 
