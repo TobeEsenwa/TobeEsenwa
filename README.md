@@ -11,10 +11,6 @@
 
 - 📫 **How to Reach Me:** `toaddoll@gmail.com` | [+234 703 549 7784](tel:+2347035497784)
 
-- 📄 **Resume:**   <a href="https://www.linkedin.com/in/tobechukwu-esenwa-84280b176/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-
 - ⚡ **Fun Fact:** I'm an enthusiast of smart home technologies and enjoy integrating IoT devices to automate everyday tasks.
 
 <h3 align="left">Professional Summary:</h3>
