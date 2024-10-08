@@ -88,8 +88,13 @@ I am a highly motivated and professional Software Developer with over 4 years of
 <h3 align="left">GitHub Stats:</h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeEsenwa&layout=compact&langs_count=8" alt="Top Languages" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TobeEsenwa" alt="GitHub Streak" width="50%/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TobeEsenwa" alt="GitHub Streak" width="50%"/>
+</div>
+
+<h3 align="left">WakaTime Stats:</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TobeEsenwa" alt="WakaTime Stats" width="50%"/>
 </div>
 
 ---
- <p align="left">© 2024 ESENWA TOBECHUKWU, All Rights Reserved.</p>
+<p align="left">© 2024 ESENWA TOBECHUKWU, All Rights Reserved.</p>
